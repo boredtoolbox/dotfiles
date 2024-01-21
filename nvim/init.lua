@@ -1,0 +1,5 @@
+require "boredtoolbox.options"
+require "boredtoolbox.keymaps"
+require "boredtoolbox.plugins"
+require "boredtoolbox.cmp"
+vim.cmd "colorscheme slate"
